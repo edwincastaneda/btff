@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Members Only"
+AuthUserFile /home/443/1393/web/stats/.htpasswd_stats
+require valid-user
