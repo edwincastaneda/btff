@@ -16,7 +16,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 mt-5 mb-5">
-                    <h2 class="title">Our Areas</h2>
+                    <h2 class="title">Practice Areas</h2>
                 </div>
             </div>
             <div class="row">
